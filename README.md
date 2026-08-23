@@ -178,44 +178,41 @@ Based on the analysis, the company could consider the following actions:
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
-```text
 Customer-Churn-Analysis/
-│
 ├── data/
 │   └── Telco-Customer-Churn.csv
-│
 ├── notebooks/
 │   └── customer_churn_analysis.ipynb
-│
 ├── README.md
-│
 └── requirements.txt
 
-## 🚀 How to Run the Project
+🚀 How to Run
 
-Clone the repository:
 git clone <repository-url>
-Install the required libraries:
+cd Customer-Churn-Analysis
 pip install -r requirements.txt
+
 Then open:
+
 notebooks/customer_churn_analysis.ipynb
-Run the notebook cells from top to bottom.
 
-## 📈 Conclusion
+Run the notebook from top to bottom.
 
-The analysis indicates that customer churn is strongly associated with contract type, tenure, monthly charges, internet service, payment method, and access to support-related services.
-Customers with short tenure, month-to-month contracts, higher monthly charges, and limited support services represent important high-risk segments.
-These findings can help a telecommunications company design more targeted retention strategies and make data-driven decisions to reduce customer churn.
+📌 Conclusion
 
+The analysis shows that customer churn is strongly associated with contract type, tenure, monthly charges, internet service, payment method, and access to support-related services.
 
-## 👤 Author
+Customers with short tenure, month-to-month contracts, higher monthly charges, fiber optic service, electronic check payments, and limited support services represent the highest-risk customer segments.
 
-*Amritpal Singh*
+These findings can help a telecommunications company design targeted retention strategies and make better data-driven decisions.
 
-*Data Analyst | Business Analyst*
+👤 Author
 
-### Skills Demonstrated
+Amritpal Singh
+Data Analyst | Business Analyst
 
-Python • Pandas • NumPy • Matplotlib • EDA • Data Cleaning • Data Visualization • Business Analysis
+Skills Demonstrated
+
+"Python" • "Pandas" • "NumPy" • "Matplotlib" • "EDA" • "Data Cleaning" • "Data Visualization" • "Business Analysis"
